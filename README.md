@@ -1,4 +1,4 @@
-# nian-pangolin
+# pangolin-aigc
 
 *AIGC content pipeline · AI short-drama production · Prompt engineering*
 
